@@ -44,7 +44,7 @@ I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turke
 ![](https://visitor-badge.glitch.me/badge?page_id=kathrynowy.kathrynowy)
 
 Spotify recently played...🎧🎶 </br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312ljfccqckahici2l3qfh7vvgba&width={width})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312ljfccqckahici2l3qfh7vvgba&width=600&count=6)
 
 
 
