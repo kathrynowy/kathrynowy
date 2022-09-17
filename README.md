@@ -1,3 +1,6 @@
+
+![](https://visitor-badge.glitch.me/badge?page_id=kathrynowy.kathrynowy)
+
 <h1>👩🏼‍💻 🫶🏼 Hey! Nice to see you.</h1>
 Welcome to my page! </br>
 I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turkey</b> 🇹🇷🏝.
@@ -38,10 +41,12 @@ I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turke
 
 <!-- [![Kathrynowy's github stats](https://github-readme-stats.vercel.app/api?username=kathrynowy&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[kathrynowy🦊](https://t.me/kathrynowy)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **JavaScript, React or anything**. </br></br></br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynowy)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=kathrynowy.kathrynowy)
 
 Spotify recently played...🎧🎶 </br>
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312ljfccqckahici2l3qfh7vvgba&width=600&count=6)
