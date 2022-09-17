@@ -1,8 +1,8 @@
 <h1>👩🏼‍💻 🫶🏼 Hey! Nice to see you.</h1>
 Welcome to my page! </br>
-I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turkey</b> 🇹🇷.
+I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turkey</b> 🇹🇷🏝.
 
-<h3>Things I code with</h3>
+<h3>⚒ Things I code with</h3>
 
 <p>
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,6 +42,11 @@ I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turke
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kathrynowy.kathrynowy)
+
+Spotify recently played...🎧🎶 </br>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312ljfccqckahici2l3qfh7vvgba&width={width})
+
+
 
 <!--
 **kathrynowy/kathrynowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
