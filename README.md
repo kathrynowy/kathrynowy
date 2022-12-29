@@ -7,6 +7,8 @@ I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turke
 
 <h3>⚒ Things I code with</h3>
 
+![icons8-react-100](https://user-images.githubusercontent.com/43656351/209992422-89373fcc-c189-43cc-9d67-ac5f30e7dafb.png)
+
 <p>
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
