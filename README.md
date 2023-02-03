@@ -49,9 +49,9 @@ I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turke
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynowy)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 Spotify recently played...🎧🎶 </br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312ljfccqckahici2l3qfh7vvgba&width=600&count=6)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312ljfccqckahici2l3qfh7vvgba&width=600&count=6) -->
 
 
 
