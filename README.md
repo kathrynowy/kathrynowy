@@ -3,7 +3,7 @@
 
 <h1>👩🏼‍💻 🫶🏼 Hey! Nice to see you.</h1>
 Welcome to my page! </br>
-I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Turkey</b> 🇹🇷🏝.
+I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Poland</b> 🇵🇱.
 
 <h3>⚒ Things I code with</h3>
 
