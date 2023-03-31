@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kathrynowy.kathrynowy)
 
-<h1>👩🏼‍💻 🫶🏼 Hey! Nice to see you.</h1>
+<h1>👩🏼‍💻👾💡 Hey! Nice to see you.</h1>
 Welcome to my page! </br>
 I'm Kate, Fullstack developer from  <b>Belarus</b>, currently living in <b>Poland</b> 🇵🇱.
 
